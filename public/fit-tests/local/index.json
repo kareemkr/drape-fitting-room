@@ -1,0 +1,902 @@
+[
+  {
+    "id": "M001",
+    "cohort": "Men",
+    "name": "Red tartan flannel",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 52.43,
+    "background": "removed"
+  },
+  {
+    "id": "M002",
+    "cohort": "Men",
+    "name": "Cream/navy wide striped mariniere",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 53.71,
+    "background": "removed"
+  },
+  {
+    "id": "M003",
+    "cohort": "Men",
+    "name": "Olive zip bomber with orange lining",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 47.67,
+    "background": "removed"
+  },
+  {
+    "id": "M004",
+    "cohort": "Men",
+    "name": "Powder blue thin striped Oxford",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 48.45,
+    "background": "removed"
+  },
+  {
+    "id": "M005",
+    "cohort": "Men",
+    "name": "Charcoal ribbed turtleneck",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 48.7,
+    "background": "removed"
+  },
+  {
+    "id": "M006",
+    "cohort": "Men",
+    "name": "Navy double-breasted blazer with brass buttons",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 48.47,
+    "background": "removed"
+  },
+  {
+    "id": "M007",
+    "cohort": "Men",
+    "name": "Gold ochre corduroy overshirt",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 47.67,
+    "background": "removed"
+  },
+  {
+    "id": "M008",
+    "cohort": "Men",
+    "name": "Forest green cable-knit crewneck",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 46.19,
+    "background": "removed"
+  },
+  {
+    "id": "M009",
+    "cohort": "Men",
+    "name": "Rust and ecru rugby with white collar",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 52.43,
+    "background": "removed"
+  },
+  {
+    "id": "M010",
+    "cohort": "Men",
+    "name": "Pale pink polo with narrow navy chest stripe",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 40.97,
+    "background": "removed"
+  },
+  {
+    "id": "M011",
+    "cohort": "Men",
+    "name": "Dark blue denim western shirt with pearl snaps",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 46.81,
+    "background": "removed"
+  },
+  {
+    "id": "M012",
+    "cohort": "Men",
+    "name": "Mustard quilted liner jacket",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 50.43,
+    "background": "removed"
+  },
+  {
+    "id": "M013",
+    "cohort": "Men",
+    "name": "Cream sweater vest with moss-green argyle",
+    "alignment": "mesh",
+    "sleeveLength": "sleeveless",
+    "changedPercent": 38.17,
+    "background": "removed"
+  },
+  {
+    "id": "M014",
+    "cohort": "Men",
+    "name": "Indigo discharge-print botanical camp shirt",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 37.68,
+    "background": "removed"
+  },
+  {
+    "id": "M015",
+    "cohort": "Men",
+    "name": "Burgundy henley with cream buttons",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 48.14,
+    "background": "removed"
+  },
+  {
+    "id": "M016",
+    "cohort": "Men",
+    "name": "Black leather biker jacket with asymmetric zip",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 48.53,
+    "background": "removed"
+  },
+  {
+    "id": "M017",
+    "cohort": "Men",
+    "name": "Light grey zip hoodie",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 47.18,
+    "background": "removed"
+  },
+  {
+    "id": "M018",
+    "cohort": "Men",
+    "name": "Blue sunflower-yellow check overshirt",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 51.36,
+    "background": "removed"
+  },
+  {
+    "id": "M019",
+    "cohort": "Men",
+    "name": "Sage micro-check tailored jacket",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 53.29,
+    "background": "removed"
+  },
+  {
+    "id": "M020",
+    "cohort": "Men",
+    "name": "Ecru waffle knit henley",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 49.42,
+    "background": "removed"
+  },
+  {
+    "id": "M021",
+    "cohort": "Men",
+    "name": "Brick red zip track jacket with white sleeve stripes",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 48.39,
+    "background": "removed"
+  },
+  {
+    "id": "M022",
+    "cohort": "Men",
+    "name": "Cobalt crewneck sweatshirt with white V insert",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 50.13,
+    "background": "removed"
+  },
+  {
+    "id": "M023",
+    "cohort": "Men",
+    "name": "Camel suede trucker",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 57.39,
+    "background": "removed"
+  },
+  {
+    "id": "M024",
+    "cohort": "Men",
+    "name": "Charcoal shirt with ivory vertical pinstripes",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 52.98,
+    "background": "removed"
+  },
+  {
+    "id": "M025",
+    "cohort": "Men",
+    "name": "Teal anorak quarter zip with one front pouch",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 51.55,
+    "background": "removed"
+  },
+  {
+    "id": "M026",
+    "cohort": "Men",
+    "name": "Sand herringbone single-breasted blazer",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 53.47,
+    "background": "removed"
+  },
+  {
+    "id": "M027",
+    "cohort": "Men",
+    "name": "Navy knitted polo with cream piping",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 37.11,
+    "background": "removed"
+  },
+  {
+    "id": "M028",
+    "cohort": "Men",
+    "name": "Bright red fisherman rib sweater",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 49.34,
+    "background": "removed"
+  },
+  {
+    "id": "M029",
+    "cohort": "Men",
+    "name": "Turquoise terrycloth resort shirt",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 39.15,
+    "background": "removed"
+  },
+  {
+    "id": "M030",
+    "cohort": "Men",
+    "name": "Black nylon coach jacket with silver snaps",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 54.19,
+    "background": "removed"
+  },
+  {
+    "id": "M031",
+    "cohort": "Men",
+    "name": "Cream long-sleeve baseball raglan with red sleeves",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 49.62,
+    "background": "removed"
+  },
+  {
+    "id": "M032",
+    "cohort": "Men",
+    "name": "Dusty lavender boxy heavyweight tee",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 41.69,
+    "background": "removed"
+  },
+  {
+    "id": "M033",
+    "cohort": "Men",
+    "name": "Light blue patch-pocket chore jacket",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 56.44,
+    "background": "removed"
+  },
+  {
+    "id": "M034",
+    "cohort": "Men",
+    "name": "Olive camouflage field jacket",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 58.58,
+    "background": "removed"
+  },
+  {
+    "id": "M035",
+    "cohort": "Men",
+    "name": "Raspberry Oxford tattersall button-down",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 50.29,
+    "background": "removed"
+  },
+  {
+    "id": "M036",
+    "cohort": "Men",
+    "name": "Mustard and burgundy geometric Fair Isle knit",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 63.34,
+    "background": "removed"
+  },
+  {
+    "id": "M037",
+    "cohort": "Men",
+    "name": "Ivory camp shirt with red line-art leaf print",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 44.77,
+    "background": "removed"
+  },
+  {
+    "id": "M038",
+    "cohort": "Men",
+    "name": "Deep brown waffle-knit quarter button pullover",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 50.85,
+    "background": "removed"
+  },
+  {
+    "id": "M039",
+    "cohort": "Men",
+    "name": "Cobalt and red colorblock windbreaker",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 54,
+    "background": "removed"
+  },
+  {
+    "id": "M040",
+    "cohort": "Men",
+    "name": "Oatmeal fly-front mac coat",
+    "alignment": "estimated",
+    "sleeveLength": "short",
+    "changedPercent": 46.24,
+    "background": "removed"
+  },
+  {
+    "id": "M041",
+    "cohort": "Men",
+    "name": "White and forest-green vertical stripe rugby jersey",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 53.33,
+    "background": "removed"
+  },
+  {
+    "id": "M042",
+    "cohort": "Men",
+    "name": "Blue denim vest with copper buttons",
+    "alignment": "estimated",
+    "sleeveLength": "sleeveless",
+    "changedPercent": 38.23,
+    "background": "removed"
+  },
+  {
+    "id": "M043",
+    "cohort": "Men",
+    "name": "Sand shawl-collar cardigan with toggle buttons",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 56.56,
+    "background": "removed"
+  },
+  {
+    "id": "M044",
+    "cohort": "Men",
+    "name": "Light green crewneck with wine horizontal chest band",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 61.2,
+    "background": "removed"
+  },
+  {
+    "id": "M045",
+    "cohort": "Men",
+    "name": "Black cotton shirt with tiny cream polka dots",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 59.69,
+    "background": "removed"
+  },
+  {
+    "id": "M046",
+    "cohort": "Men",
+    "name": "Burgundy satin varsity jacket with cream sleeves",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 54.75,
+    "background": "removed"
+  },
+  {
+    "id": "M047",
+    "cohort": "Men",
+    "name": "Orange and black gingham button shirt",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 55.22,
+    "background": "removed"
+  },
+  {
+    "id": "M048",
+    "cohort": "Men",
+    "name": "Navy rain shell with teal pocket zips",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 61.49,
+    "background": "removed"
+  },
+  {
+    "id": "M049",
+    "cohort": "Men",
+    "name": "Cream safari jacket with four cargo pockets",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 54.36,
+    "background": "removed"
+  },
+  {
+    "id": "M050",
+    "cohort": "Men",
+    "name": "Teal shawl-collar long-sleeved pullover",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 55.22,
+    "background": "removed"
+  },
+  {
+    "id": "W001",
+    "cohort": "Women",
+    "name": "Cobalt blue bow-neck blouse",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 39.52,
+    "background": "removed"
+  },
+  {
+    "id": "W002",
+    "cohort": "Women",
+    "name": "Black and white houndstooth short blazer",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 39.95,
+    "background": "removed"
+  },
+  {
+    "id": "W003",
+    "cohort": "Women",
+    "name": "Rust ribbed notched-neck cardigan",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 46.85,
+    "background": "removed"
+  },
+  {
+    "id": "W004",
+    "cohort": "Women",
+    "name": "Ivory blouse with red poppy print",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 48.54,
+    "background": "removed"
+  },
+  {
+    "id": "W005",
+    "cohort": "Women",
+    "name": "Moss green cropped quilted jacket",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 42.87,
+    "background": "removed"
+  },
+  {
+    "id": "W006",
+    "cohort": "Women",
+    "name": "Lavender cable-knit crewneck sweater",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 47.6,
+    "background": "removed"
+  },
+  {
+    "id": "W007",
+    "cohort": "Women",
+    "name": "Mustard-gold blouse with lantern sleeves",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 47.73,
+    "background": "removed"
+  },
+  {
+    "id": "W008",
+    "cohort": "Women",
+    "name": "White denim trucker with copper buttons",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 48.84,
+    "background": "removed"
+  },
+  {
+    "id": "W009",
+    "cohort": "Women",
+    "name": "Coral pink pleated V-neck short sleeve blouse",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 34.26,
+    "background": "removed"
+  },
+  {
+    "id": "W010",
+    "cohort": "Women",
+    "name": "Navy sailor top with white piping and square collar",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 37.78,
+    "background": "removed"
+  },
+  {
+    "id": "W011",
+    "cohort": "Women",
+    "name": "Red cropped cotton jacket with pearl buttons",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 48.14,
+    "background": "removed"
+  },
+  {
+    "id": "W012",
+    "cohort": "Women",
+    "name": "Black turtleneck with charcoal chevron texture",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 37.35,
+    "background": "removed"
+  },
+  {
+    "id": "W013",
+    "cohort": "Women",
+    "name": "Powder blue striped long-sleeve button down",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 49.67,
+    "background": "removed"
+  },
+  {
+    "id": "W014",
+    "cohort": "Women",
+    "name": "Raspberry wrap blouse with tie waist",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 48.73,
+    "background": "removed"
+  },
+  {
+    "id": "W015",
+    "cohort": "Women",
+    "name": "Mint green short-sleeve knit with scalloped hem",
+    "alignment": "estimated",
+    "sleeveLength": "short",
+    "changedPercent": 42.26,
+    "background": "removed"
+  },
+  {
+    "id": "W016",
+    "cohort": "Women",
+    "name": "Aubergine velvet blazer",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 50.05,
+    "background": "removed"
+  },
+  {
+    "id": "W017",
+    "cohort": "Women",
+    "name": "Navy peplum blouse with white polka dots",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 44.75,
+    "background": "removed"
+  },
+  {
+    "id": "W018",
+    "cohort": "Women",
+    "name": "Cinnamon cardigan with tortoiseshell buttons",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 49.14,
+    "background": "removed"
+  },
+  {
+    "id": "W019",
+    "cohort": "Women",
+    "name": "Ivory sleeveless top with black piping",
+    "alignment": "mesh",
+    "sleeveLength": "sleeveless",
+    "changedPercent": 35.33,
+    "background": "removed"
+  },
+  {
+    "id": "W020",
+    "cohort": "Women",
+    "name": "Ochre batik floral camp shirt",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 38.57,
+    "background": "removed"
+  },
+  {
+    "id": "W021",
+    "cohort": "Women",
+    "name": "Teal biker jacket with silver zippers",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 51.3,
+    "background": "removed"
+  },
+  {
+    "id": "W022",
+    "cohort": "Women",
+    "name": "Blue and cream Breton sweater",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 52.77,
+    "background": "removed"
+  },
+  {
+    "id": "W023",
+    "cohort": "Women",
+    "name": "Olive field shirt with cream botanical embroidery",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 47.46,
+    "background": "removed"
+  },
+  {
+    "id": "W024",
+    "cohort": "Women",
+    "name": "Cream fair isle knit with red yoke",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 56.65,
+    "background": "removed"
+  },
+  {
+    "id": "W025",
+    "cohort": "Women",
+    "name": "Dark indigo bell-sleeve denim blouse",
+    "alignment": "estimated",
+    "sleeveLength": "sleeveless",
+    "changedPercent": 36.73,
+    "background": "removed"
+  },
+  {
+    "id": "W026",
+    "cohort": "Women",
+    "name": "Red square-neck puff sleeve blouse",
+    "alignment": "mesh",
+    "sleeveLength": "short",
+    "changedPercent": 30.56,
+    "background": "removed"
+  },
+  {
+    "id": "W027",
+    "cohort": "Women",
+    "name": "Cream tweed collarless jacket with dark trim",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 38.68,
+    "background": "removed"
+  },
+  {
+    "id": "W028",
+    "cohort": "Women",
+    "name": "Sky blue lace yoke blouse",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 49.62,
+    "background": "removed"
+  },
+  {
+    "id": "W029",
+    "cohort": "Women",
+    "name": "Emerald asymmetric wrap top",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 52.03,
+    "background": "removed"
+  },
+  {
+    "id": "W030",
+    "cohort": "Women",
+    "name": "Soft purple belted trench jacket",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 45.1,
+    "background": "removed"
+  },
+  {
+    "id": "W031",
+    "cohort": "Women",
+    "name": "Turquoise and cream geometric knit vest",
+    "alignment": "mesh",
+    "sleeveLength": "sleeveless",
+    "changedPercent": 34.25,
+    "background": "removed"
+  },
+  {
+    "id": "W032",
+    "cohort": "Women",
+    "name": "Black and cream fine gingham button blouse",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 47.84,
+    "background": "removed"
+  },
+  {
+    "id": "W033",
+    "cohort": "Women",
+    "name": "Mustard rolled-neck sweater",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 44.33,
+    "background": "removed"
+  },
+  {
+    "id": "W034",
+    "cohort": "Women",
+    "name": "Navy parka with brass snaps",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 46.84,
+    "background": "removed"
+  },
+  {
+    "id": "W035",
+    "cohort": "Women",
+    "name": "Dusty pink western denim shirt",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 50.49,
+    "background": "removed"
+  },
+  {
+    "id": "W036",
+    "cohort": "Women",
+    "name": "Green cream gingham crop jacket",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 32.77,
+    "background": "removed"
+  },
+  {
+    "id": "W037",
+    "cohort": "Women",
+    "name": "Ivory black vertical-striped button blouse",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 51.35,
+    "background": "removed"
+  },
+  {
+    "id": "W038",
+    "cohort": "Women",
+    "name": "Orange textured cap sleeve knit",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 47.01,
+    "background": "removed"
+  },
+  {
+    "id": "W039",
+    "cohort": "Women",
+    "name": "Black faux leather moto vest",
+    "alignment": "estimated",
+    "sleeveLength": "sleeveless",
+    "changedPercent": 36.26,
+    "background": "removed"
+  },
+  {
+    "id": "W040",
+    "cohort": "Women",
+    "name": "Denim blue paisley smock blouse",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 51.54,
+    "background": "removed"
+  },
+  {
+    "id": "W041",
+    "cohort": "Women",
+    "name": "Fuchsia single-breasted blazer",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 49.65,
+    "background": "removed"
+  },
+  {
+    "id": "W042",
+    "cohort": "Women",
+    "name": "Cream open-knit crochet cardigan",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 54.96,
+    "background": "removed"
+  },
+  {
+    "id": "W043",
+    "cohort": "Women",
+    "name": "Red black buffalo check flannel",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 55.16,
+    "background": "removed"
+  },
+  {
+    "id": "W044",
+    "cohort": "Women",
+    "name": "Dark teal satin draped neckline blouse",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 44.57,
+    "background": "removed"
+  },
+  {
+    "id": "W045",
+    "cohort": "Women",
+    "name": "Butter yellow knitted polo with black tipped collar",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 49,
+    "background": "removed"
+  },
+  {
+    "id": "W046",
+    "cohort": "Women",
+    "name": "Rust cable-knit V-neck sweater vest",
+    "alignment": "estimated",
+    "sleeveLength": "sleeveless",
+    "changedPercent": 43.3,
+    "background": "removed"
+  },
+  {
+    "id": "W047",
+    "cohort": "Women",
+    "name": "White poplin shirt with blue floral embroidery",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 43.57,
+    "background": "removed"
+  },
+  {
+    "id": "W048",
+    "cohort": "Women",
+    "name": "Navy and teal colorblock anorak",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 53.34,
+    "background": "removed"
+  },
+  {
+    "id": "W049",
+    "cohort": "Women",
+    "name": "Silver grey funnel-neck sweatshirt",
+    "alignment": "mesh",
+    "sleeveLength": "long",
+    "changedPercent": 46.5,
+    "background": "removed"
+  },
+  {
+    "id": "W050",
+    "cohort": "Women",
+    "name": "Brown corduroy shirt jacket with cream shearling collar",
+    "alignment": "estimated",
+    "sleeveLength": "long",
+    "changedPercent": 54.98,
+    "background": "removed"
+  }
+]

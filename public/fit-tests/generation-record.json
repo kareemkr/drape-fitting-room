@@ -1,0 +1,152 @@
+{
+  "engine": "OpenAI image generation tool, reference-conditioned edit for output sheets",
+  "mode": "five columns by two rows, ten identity-garment pairs per result sheet",
+  "source_status": "All test subjects are generated adult models. All garment references are original generated flat lays.",
+  "ground_truth": "Unavailable for the newly generated wearing examples; this is a qualitative comparison gallery.",
+  "files": {
+    "men-01-results": {
+      "generation_id": "exec-a1bd2d99-0a87-422a-8535-79c50779bea2",
+      "sha256": "6e6b2ff59a0f93e142c817e035216678a4b89971a9372a5937d25b40096d5168",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "men-02-results": {
+      "generation_id": "exec-1b9dcc52-9a9a-45ef-ae37-66944f5f3157",
+      "sha256": "d1ea684ba6686c014c628a4217880678e79cbf671a4f25fda75bed2df3b59beb",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "men-03-results": {
+      "generation_id": "exec-e9af346b-f225-4d04-aba0-0c32480732cd",
+      "sha256": "c51a47b110fa3209556ad38aba9d206967a28828a19f7a61b0dbd0b574f369b5",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "men-04-results": {
+      "generation_id": "exec-6df7e282-7dea-4472-b542-001af1ef329c",
+      "sha256": "9dbf7faff05618642f8b14614e01899b7a41837b974ce50d6191df4740c509da",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "men-05-results": {
+      "generation_id": "exec-ea3aef87-a021-47a5-8158-7b36a6352117",
+      "sha256": "1321b98e4aa358d58d0ebe9aad692fb62b498efe083eec693f22e0376d07b13a",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "men-a-people": {
+      "generation_id": "exec-ade943bb-77a4-4be0-aa1c-25ba7aff7bdb",
+      "sha256": "03581c17697b5afbb531466daba5e6e269c9e8adeafdad7921c97526fb9b4244",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    "men-a-products": {
+      "generation_id": "exec-e3edf1bb-debb-4f78-8175-f05c7dd5eff0",
+      "sha256": "8276341aa3f09576f1e52394a878d40b3240bb6bf9a08cc19edbc16096df0a08",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    "men-b-people": {
+      "generation_id": "exec-2a609bac-a6de-4ea0-91a7-a2dd52ebe5c2",
+      "sha256": "4022246ea824c96309198ec1848085a91a0525e23159282331bd4412e9fe4d37",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    "men-b-products": {
+      "generation_id": "exec-238a8d48-cda0-4c6b-b130-39a9452b3bad",
+      "sha256": "0da61d0509f28ffce1930a434cb188d3cfd0ee0f1e7decc549e56b3b063092c6",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    "women-01-results": {
+      "generation_id": "exec-2850dd4f-a9a6-4ae6-8001-04e253008f6b",
+      "sha256": "79e11124422dea060093b6c4070e8d1440da113cd9491eea7c98e8f1f18c6a1c",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "women-02-results": {
+      "generation_id": "exec-7be35ee7-e14d-4ecc-834e-9726fc977c85",
+      "sha256": "c3b257550d443fd46b564b97792c1742aa70f75dcc0d9b2aa1b068d33eec5de9",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "women-03-results": {
+      "generation_id": "exec-5e2fee64-ebd9-416f-b6ec-a43892c1f4e5",
+      "sha256": "4f89b661a440ef10255310fc5eb6baf079260d40ce42f5af2c4791e2029e8b6f",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "women-04-results": {
+      "generation_id": "exec-1e21cba7-6915-4160-ae1a-fa2e0c4b08c0",
+      "sha256": "11cfbcdea3d7136a78194684d41c2cb2e34f773fe7df2aef38dc7e9179274348",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "women-05-results": {
+      "generation_id": "exec-67017809-5688-4d37-8a28-b0b97ee6e8b6",
+      "sha256": "d8f3d0c7057567ec08970b9c3197437596615364ac0604e03ee178e6e326d49a",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "women-a-people": {
+      "generation_id": "exec-6f9bfea3-3255-464a-9c2f-b50e12218bcd",
+      "sha256": "d3bd0ce0f4aadaf3550a081d5e7cee409b7a4d5a44a74d19f2744eae3d8504fd",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    "women-a-products": {
+      "generation_id": "exec-24f7c5aa-e8c6-4e87-9e96-c48234076968",
+      "sha256": "3a3463d7ed1384b1e8f3bee2cfcac96c2e785aac93ca556da396283a1307d8f3",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    "women-b-people": {
+      "generation_id": "exec-310572f0-0b9e-451f-a116-5a43170cfe9e",
+      "sha256": "285ef73852f7ef4ade367ac5d70c9a7364e052465a6f3ec4d5805d88e4ab2310",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    "women-b-products": {
+      "generation_id": "exec-dd048aa7-4de6-4ec2-a916-fc1a2fe01f7f",
+      "sha256": "f4668fb114db74c1a6c80f62179f6ac44f33a7fc102fc2b4e1d8fc8920c7ae2e",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    }
+  }
+}

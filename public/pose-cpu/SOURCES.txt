@@ -1,0 +1,5 @@
+Google MoveNet SinglePose Lightning, TensorFlow.js model version 4.
+Published release: https://www.kaggle.com/models/google/movenet/tfJs/singlepose-lightning/4
+Model card: https://storage.googleapis.com/movenet/MoveNet.SinglePose%20Model%20Card.pdf
+TensorFlow.js graph converter, core and CPU backend v4.22.0 (Apache 2.0).
+Source: https://github.com/tensorflow/tfjs/tree/tfjs-v4.22.0

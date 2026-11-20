@@ -1,0 +1,101 @@
+id,cohort,garment_name,likeness,garment,realism,overall,finding
+M001,men,red tartan flannel,pass,review,pass,review,"The pockets retain their diagonal tartan, but the plaid repeat on the body is finer than the reference."
+M002,men,cream/navy wide striped mariniere,pass,pass,pass,pass,The wide navy stripes curve across the torso and fold at the waist.
+M003,men,olive zip bomber with orange lining,pass,pass,review,review,The orange inner lining appears as an orange patch across the front neckline.
+M004,men,powder blue thin striped Oxford,pass,pass,pass,pass,"The pale Oxford stripe, button-down collar and curved hem remain visible."
+M005,men,charcoal ribbed turtleneck,pass,pass,pass,pass,The high collar fits below the beard; the raised ribs and sleeve cuffs remain visible.
+M006,men,navy double-breasted blazer with brass buttons,pass,pass,pass,pass,"The six brass buttons, peaked lapels and paired lower pockets are retained."
+M007,men,gold ochre corduroy overshirt,pass,pass,pass,pass,Corduroy texture and two chest pockets remain clear; the sleeves crease at the elbows.
+M008,men,forest green cable-knit crewneck,pass,pass,pass,pass,The dark green cables and ribbed hem continue over the chest and wrists.
+M009,men,rust and ecru rugby with white collar,pass,pass,pass,pass,The white collar sits around the neck and the large rugby bands follow the body.
+M010,men,pale pink polo with narrow navy chest stripe,pass,pass,pass,pass,The narrow navy stripe sits across the pink polo chest; the short sleeves and collar remain.
+M011,men,dark blue denim western shirt with pearl snaps,pass,pass,pass,pass,"The yoke seam, twin chest pockets and light snaps are visible on the dark denim shirt."
+M012,men,mustard quilted liner jacket,pass,pass,pass,pass,"The large quilted waves, binding and pocket openings read as a padded liner."
+M013,men,cream sweater vest with moss-green argyle,pass,pass,pass,pass,The argyle front fits over the original tee with believable exposed sleeves.
+M014,men,indigo discharge-print botanical camp shirt,pass,pass,pass,pass,The large split-leaf and flower layout is preserved. Small motifs at the lower edge shift slightly.
+M015,men,burgundy henley with cream buttons,pass,review,pass,review,"The straight self-fabric hem becomes a darker cinched waistband, changing the bottom silhouette."
+M016,men,black leather biker jacket with asymmetric zip,pass,pass,pass,pass,"The leather lapels, belt, asymmetric zip and flap pocket remain clearly separate."
+M017,men,light grey zip hoodie,pass,pass,pass,pass,"The original hood shape, central zipper and drawcords remain, with natural wrist folds."
+M018,men,blue sunflower-yellow check overshirt,pass,pass,pass,pass,"The yellow and blue checks, diagonal chest pockets and straight placket remain recognisable."
+M019,men,sage micro-check tailored jacket,pass,pass,pass,pass,"The notched lapels, jacket pockets and fine sage checks look plausible over the source tee."
+M020,men,ecru waffle knit henley,pass,pass,pass,pass,The cream waffle texture and short button placket sit cleanly against the chest.
+M021,men,brick red zip track jacket with white sleeve stripes,pass,pass,pass,pass,The white sleeve stripes bend around the elbows; stand collar and central zipper fit naturally.
+M022,men,cobalt crewneck sweatshirt with white V insert,pass,pass,pass,pass,The white triangular insert remains immediately below the cobalt crew neck.
+M023,men,camel suede trucker,pass,pass,pass,pass,"The suede nap, twin chest pockets and metal buttons remain visible over the tee."
+M024,men,charcoal shirt with ivory vertical pinstripes,pass,pass,pass,pass,Vertical pinstripes stretch across the torso and bend with the sleeves without breaking the placket.
+M025,men,teal anorak quarter zip with one front pouch,pass,pass,pass,pass,"The large central pouch, waist cords and short zipper sit in their expected positions."
+M026,men,sand herringbone single-breasted blazer,pass,pass,review,review,"The jacket is recognisable, but its tan lining also recolours the original dark tee inside the lapels."
+M027,men,navy knitted polo with cream piping,pass,pass,pass,pass,Contrasting cream piping remains along the collar and short-sleeve edges.
+M028,men,bright red fisherman rib sweater,pass,pass,pass,pass,The red rib knit curves over the chest; raglan seams and ribbed cuffs remain clear.
+M029,men,turquoise terrycloth resort shirt,pass,pass,pass,pass,"The resort collar, central placket and pocket remain clear against the turquoise terrycloth."
+M030,men,black nylon coach jacket with silver snaps,pass,pass,pass,pass,"The short shell jacket keeps its stand-off collar, silver snaps and gathered cuffs."
+M031,men,cream long-sleeve baseball raglan with red sleeves,pass,pass,pass,pass,The cream body and deep red raglan sleeves meet at the correct shoulder seams.
+M032,men,dusty lavender boxy heavyweight tee,pass,pass,pass,pass,The lavender T-shirt retains its dropped shoulder and loose short sleeves.
+M033,men,light blue patch-pocket chore jacket,pass,pass,pass,pass,The single chest pocket and two lower patch pockets survive on the light blue jacket.
+M034,men,olive camouflage field jacket,pass,pass,pass,pass,"The camouflage pattern, shoulder tabs and four flap pockets remain identifiable."
+M035,men,raspberry Oxford tattersall button-down,pass,pass,pass,pass,"The fine contrasting grid, button-down points and curved hem are visible."
+M036,men,mustard and burgundy geometric Fair Isle knit,pass,review,pass,review,"The bands stay in order, but the diamond repeat and fine geometric rows near the hem differ."
+M037,men,ivory camp shirt with red line-art leaf print,pass,pass,pass,pass,The large red line-art leaves remain distinct on the ivory fabric and camp collar.
+M038,men,deep brown waffle-knit quarter button pullover,pass,pass,pass,pass,"The waffle texture, raised neck and short brown placket are retained."
+M039,men,cobalt and red colorblock windbreaker,pass,pass,pass,pass,The cobalt and red panels meet at mid-chest and the zipper and collar are retained.
+M040,men,oatmeal fly-front mac coat,pass,review,pass,review,The worn mac has less fabric extending past its cuffs relative to the long product silhouette.
+M041,men,white and forest-green vertical stripe rugby jersey,pass,pass,pass,pass,The broad green vertical stripes and contrasting rugby collar remain aligned.
+M042,men,blue denim vest with copper buttons,pass,pass,pass,pass,"The sleeveless denim body, copper button line and pockets fit over the original tee."
+M043,men,sand shawl-collar cardigan with toggle buttons,pass,pass,pass,pass,"The three toggle fastenings, wide shawl collar and low pockets are all visible."
+M044,men,light green crewneck with wine horizontal chest band,pass,pass,pass,pass,The wine horizontal band wraps around the arms and torso of the green sweatshirt.
+M045,men,black cotton shirt with tiny cream polka dots,pass,pass,pass,pass,"The small cream dots, dark collar and front placket remain visible."
+M046,men,burgundy satin varsity jacket with cream sleeves,pass,pass,pass,pass,"The satin sheen, cream sleeves and striped edge ribbing follow the varsity jacket design."
+M047,men,orange and black gingham button shirt,pass,pass,pass,pass,The orange and black check follows the body and long sleeves; the collar remains recognisable.
+M048,men,navy rain shell with teal pocket zips,pass,pass,pass,pass,The source already has a teal central zipper. The output retains it and the three teal pocket zips.
+M049,men,cream safari jacket with four cargo pockets,pass,pass,pass,pass,The four separately buttoned pockets and shoulder tabs remain visible.
+M050,men,teal shawl-collar long-sleeved pullover,pass,pass,pass,pass,"The teal shawl collar, single button and ribbed hem follow the pullover reference."
+W001,women,cobalt blue bow-neck blouse,pass,pass,pass,pass,The large bow sits against the neckline; the gathering and long cuffs follow the arms.
+W002,women,black and white houndstooth short blazer,pass,pass,pass,pass,"The fitted blazer preserves the black-and-white checks, notched lapels and open neckline."
+W003,women,rust ribbed notched-neck cardigan,pass,pass,pass,pass,"The ribbed rust fabric, V-shaped notches and five buttons remain clear."
+W004,women,ivory blouse with red poppy print,pass,review,pass,review,"The poppy motif remains recognisable, but the blooms repeat at a smaller scale and new positions."
+W005,women,moss green cropped quilted jacket,pass,pass,pass,pass,"The collar, diamond quilting and cropped elastic hem sit cleanly above the jeans."
+W006,women,lavender cable-knit crewneck sweater,pass,pass,pass,pass,Cable panels run down the torso; the sleeves gather against the cuffs without distorting the hands.
+W007,women,mustard-gold blouse with lantern sleeves,pass,pass,pass,pass,A high collar and gathered full sleeves preserve the blouse shape and lightweight fabric.
+W008,women,white denim trucker with copper buttons,pass,pass,pass,pass,Two pocket flaps and the copper hardware stay visible on the white trucker.
+W009,women,coral pink pleated V-neck short sleeve blouse,pass,pass,pass,pass,"The V neck, pleated front and short flutter sleeves transfer cleanly."
+W010,women,navy sailor top with white piping and square collar,pass,pass,pass,pass,"White stripes on the navy collar and sleeves stay distinct, with the central neck tie visible."
+W011,women,red cropped cotton jacket with pearl buttons,pass,pass,pass,pass,"The rounded collar, pearl buttons and two pocket flaps survive the transfer."
+W012,women,black turtleneck with charcoal chevron texture,pass,pass,pass,pass,The dark chevron design travels over the chest and the high neck wraps naturally.
+W013,women,powder blue striped long-sleeve button down,pass,pass,pass,pass,The upright stripes are visible through the body and bend with the sleeves; the chest pocket remains.
+W014,women,raspberry wrap blouse with tie waist,pass,review,pass,review,The waist tie hangs appreciably farther below the blouse hem than the product reference.
+W015,women,mint green short-sleeve knit with scalloped hem,pass,pass,pass,pass,Short scalloped sleeves and a scalloped hem remain visible against skin and jeans.
+W016,women,aubergine velvet blazer,pass,pass,pass,pass,Velvet highlights and the lighter lapel outline remain visible against the charcoal tee.
+W017,women,navy peplum blouse with white polka dots,pass,pass,pass,pass,"The polka dots, puffed sleeves and pleated peplum retain a plausible silhouette."
+W018,women,cinnamon cardigan with tortoiseshell buttons,pass,pass,pass,pass,"The V neckline, tortoiseshell buttons and twin patch pockets are retained."
+W019,women,ivory sleeveless top with black piping,pass,pass,pass,pass,"The dark armhole, neck and vertical piping remain sharp around the sleeveless opening."
+W020,women,ochre batik floral camp shirt,pass,pass,pass,pass,"The large leaf motifs, ochre colour and open camp collar remain recognisable."
+W021,women,teal biker jacket with silver zippers,pass,pass,pass,pass,"Asymmetric lapels, the pockets and wrist zips follow the wearer's arms."
+W022,women,blue and cream Breton sweater,pass,pass,pass,pass,The bands run around the torso and bend at the elbows; cuffs and neck remain cream.
+W023,women,olive field shirt with cream botanical embroidery,pass,pass,pass,pass,"Bilateral botanical embroidery, chest pockets and the shirt collar transfer consistently."
+W024,women,cream fair isle knit with red yoke,pass,pass,pass,pass,The fine red yoke and lower trim continue correctly across the cream sweater.
+W025,women,dark indigo bell-sleeve denim blouse,pass,pass,pass,pass,Bell sleeves widen below the elbows and the shaping seams survive.
+W026,women,red square-neck puff sleeve blouse,pass,pass,pass,pass,The square neckline and puffed sleeves fit the bare shoulders cleanly.
+W027,women,cream tweed collarless jacket with dark trim,pass,pass,pass,pass,"The collarless line, contrasting edging and front pockets remain recognisable."
+W028,women,sky blue lace yoke blouse,pass,pass,pass,pass,Skin shows through the lace yoke; the shift to opaque gathered fabric reads clearly.
+W029,women,emerald asymmetric wrap top,review,pass,pass,review,The waist is more strongly pinched relative to the wearer's original broader torso.
+W030,women,soft purple belted trench jacket,pass,pass,pass,pass,"The belted waist, double-breasted front and sleeve straps remain distinct."
+W031,women,turquoise and cream geometric knit vest,pass,review,pass,review,The cream-and-turquoise diamonds repeat more densely across the body than on the original vest.
+W032,women,black and cream fine gingham button blouse,pass,pass,pass,pass,Checks follow the waist and gathered long sleeves without breaking at the placket.
+W033,women,mustard rolled-neck sweater,pass,pass,pass,pass,"The rolled collar, dropped shoulder and generous sleeve shape match the sweater reference."
+W034,women,navy parka with brass snaps,pass,pass,pass,pass,"The hood, brass snaps, drawcords and flap pockets transfer clearly."
+W035,women,dusty pink western denim shirt,pass,pass,pass,pass,"The western yoke, two flap pockets and washed pink finish survive."
+W036,women,green cream gingham crop jacket,pass,pass,pass,pass,The large gingham checks and cropped hem remain recognisable above the jeans.
+W037,women,ivory black vertical-striped button blouse,pass,pass,pass,pass,Narrow vertical stripes and striped cuffs follow the blouse over the torso.
+W038,women,orange textured cap sleeve knit,pass,pass,pass,pass,The orange open stitches and short cap sleeves read as knitted fabric on the body.
+W039,women,black faux leather moto vest,pass,pass,pass,pass,"The asymmetric zip, waist buckles and black sleeveless body remain identifiable over the tee."
+W040,women,denim blue paisley smock blouse,pass,pass,pass,pass,"The two tassels, gathered neck and blue paisley fabric drape over the original torso."
+W041,women,fuchsia single-breasted blazer,pass,pass,pass,pass,Blazer button and pocket flaps align; the original tee is visible in the V.
+W042,women,cream open-knit crochet cardigan,pass,review,pass,review,"The open crochet and flower motifs survive, but the four-button closure became five buttons."
+W043,women,red black buffalo check flannel,pass,pass,pass,pass,The checks bend around the chest and the two chest pockets remain visible.
+W044,women,dark teal satin draped neckline blouse,pass,pass,pass,pass,The cowl falls in soft layers and the sleeves gather at both cuffs.
+W045,women,butter yellow knitted polo with black tipped collar,pass,pass,pass,pass,The black collar and sleeve tipping remain distinct on the yellow knit.
+W046,women,rust cable-knit V-neck sweater vest,pass,pass,pass,pass,The sleeveless vest sits over the original tee; the V and cable texture remain clear.
+W047,women,white poplin shirt with blue floral embroidery,pass,pass,pass,pass,The blue embroidery stays on both front panels and sleeves; the collar opens around the neck.
+W048,women,navy and teal colorblock anorak,pass,pass,pass,pass,The teal stripe continues across both arms and the front pouch sits below it.
+W049,women,silver grey funnel-neck sweatshirt,pass,pass,pass,pass,"The funnel neck, dropped shoulders and gathered hem retain the sweatshirt shape."
+W050,women,brown corduroy shirt jacket with cream shearling collar,pass,pass,pass,pass,The shearling collar and twin chest pockets are visible against the corduroy.

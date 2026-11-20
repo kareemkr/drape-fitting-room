@@ -1,0 +1,154 @@
+.body-cal {
+  color: var(--ink, #282329);
+}
+.body-cal__status {
+  margin: 0 0 0.65rem;
+}
+.body-cal__status small {
+  color: #705795;
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 650;
+}
+.body-cal__status h3 {
+  margin: 0.16rem 0 0.2rem;
+  font-size: 1rem;
+}
+.body-cal__status p {
+  color: #645a70;
+  font-size: 0.875rem;
+  line-height: 1.35;
+  margin: 0;
+}
+.body-cal__frame {
+  display: grid;
+  place-items: center;
+  background: #eeebf0;
+  border-radius: 9px;
+  overflow: hidden;
+  --body-cal-height: min(48vh, 450px);
+  --body-cal-height: min(48svh, 450px);
+}
+.body-cal__photo {
+  position: relative;
+  width: min(100%, calc(var(--body-cal-height) * var(--body-cal-ratio)));
+  line-height: 0;
+  touch-action: none;
+  cursor: crosshair;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.body-cal__photo:focus-visible {
+  outline: 2px solid #7254b7;
+  outline-offset: -2px;
+}
+.body-cal__photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+  -webkit-user-drag: none;
+}
+.body-cal__marker {
+  display: grid;
+  place-items: center;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  width: 38px;
+  height: 38px;
+  touch-action: none;
+  border: 0;
+  padding: 0;
+  border-radius: 50%;
+  cursor: grab;
+  background: none;
+}
+.body-cal__marker:active:not(:disabled) {
+  transform: translate(-50%, -50%);
+  cursor: grabbing;
+}
+.body-cal__marker span {
+  color: white;
+  font-size: 0.65rem;
+  font-weight: 700;
+  line-height: 1;
+  display: grid;
+  place-items: center;
+  width: 20px;
+  height: 20px;
+  border: 2px solid white;
+  border-radius: 50%;
+  background: #6845b2;
+  box-shadow: 0 1px 4px #2b183d99;
+}
+.body-cal__marker:focus-visible span,
+.body-cal__marker.is-active span {
+  background: #342141;
+  outline: 2px solid #bc9fe9;
+}
+.body-cal__cursor {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  border: 2px dashed white;
+  border-radius: 50%;
+  background: #7850b9b0;
+  width: 20px;
+  height: 20px;
+  color: white;
+  font:
+    bold 15px/16px Arial,
+    sans-serif;
+  display: none;
+  text-align: center;
+}
+.body-cal__cursor.is-visible,
+.body-cal__photo:focus-visible .body-cal__cursor {
+  display: block;
+}
+.body-cal__tools,
+.body-cal__actions {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+.body-cal__tools {
+  margin: 0.2rem 0 0.5rem;
+}
+.body-cal__tools button {
+  color: #635179;
+  background: none;
+  border: 0;
+  padding: 0.45rem 0.35rem;
+  min-height: 36px;
+  font-size: 0.8rem;
+  font-weight: 550;
+  text-decoration: underline;
+  text-underline-offset: 0.14rem;
+}
+.body-cal__tools button:disabled {
+  text-decoration: none;
+  opacity: 0.5;
+}
+.body-cal__skip {
+  margin-left: auto;
+}
+.body-cal__actions {
+  justify-content: flex-end;
+  padding-top: 0.6rem;
+  border-top: 1px solid #e6e0ea;
+}
+.body-cal__error {
+  color: #8d402c;
+  font-size: 0.82rem;
+  margin: 0.35rem 0;
+}
+@media (max-width: 600px) {
+  .body-cal__actions .primary {
+    flex: 1;
+  }
+  .body-cal__marker {
+    width: 44px;
+    height: 44px;
+  }
+}

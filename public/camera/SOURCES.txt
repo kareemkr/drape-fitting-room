@@ -1,0 +1,21 @@
+Drape studio motion sample
+
+studio-motion.mp4 is a silent, six-second animation of Omar, the original synthetic
+adult male portrait from this project (public/studio/male-base.webp). We used the
+portrait's own body landmarks to animate a weight shift, arm movement and a
+slight change of stance. The camera fitting room detects the body from the
+decoded video pixels. No pose data or clothing overlay is embedded in the clip.
+
+Format: H.264, 512 × 768 pixels, 24 frames per second.
+
+The three-panel motion comparison uses this same clip, with measured body points and the Oxford shirt drawn by the live renderer.
+
+waist-poses.mp4 sequences four original synthetic portraits of two adults. Each
+pose holds for three seconds. It contains only the input portraits. The app
+detects the pose and fits the selected garment during playback.
+waist-fit-comparison.jpg compares the previous and current local renderer
+using the same original source portraits and the same product image.
+
+size-comparison.jpg shows the Oxford shirt, open denim jacket and floral dress
+rendered at their reference size and two estimated size increases. All panels
+use synthetic studio photos and the on-device fitting renderer.

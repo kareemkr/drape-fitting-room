@@ -1,0 +1,263 @@
+.ai-sample-note {
+  font-size: 0.77rem;
+  line-height: 1.45;
+  text-align: center;
+  color: #625d6b;
+  margin: 0.46rem 0 0;
+}
+.return-render {
+  display: block;
+  margin: 0.5rem auto 0;
+}
+.fit-tests {
+  max-width: 1240px;
+}
+.tests-overview {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.9rem;
+  padding: 1.2rem 1.35rem;
+  border: 1px solid #dad4e6;
+  border-radius: 12px;
+  background: #f3f0f7;
+}
+.tests-overview > svg {
+  color: #7457a6;
+  margin-top: 0.13rem;
+  flex: none;
+}
+.tests-overview h2 {
+  font-size: 1.2rem;
+  margin: 0 0 0.3rem;
+}
+.tests-overview p,
+.test-method p {
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: #544f5f;
+  margin: 0;
+}
+.test-method {
+  padding: 1rem 0.1rem;
+  border-bottom: 1px solid #ddd9e0;
+}
+.test-method summary {
+  font-weight: 600;
+  cursor: pointer;
+  color: #534663;
+  font-size: 0.9rem;
+}
+.test-method p {
+  margin: 0.65rem 0;
+}
+.test-method a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.88rem;
+  color: #654895;
+  text-decoration: underline;
+}
+.test-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.1rem 0;
+}
+.test-toolbar > span,
+.test-card small,
+.test-pager small {
+  font-size: 0.8rem;
+  color: #675e72;
+}
+.test-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+  gap: 1.15rem;
+}
+.test-card {
+  text-align: left;
+  min-width: 0;
+  display: block;
+  color: #2b2432;
+}
+.test-image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 9px;
+  background: #dfdcd9;
+  aspect-ratio: 4/5;
+}
+.test-image > img:first-child {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+}
+.test-image img.test-inset {
+  position: absolute;
+  right: 6px;
+  bottom: 6px;
+  width: 23%;
+  height: 28%;
+  border: 2px solid white;
+  border-radius: 4px;
+  background: white;
+  object-fit: contain;
+}
+.test-card small,
+.test-card strong {
+  display: block;
+  margin-top: 0.36rem;
+}
+.test-card strong {
+  font-size: 0.92rem;
+  line-height: 1.24;
+}
+.test-card:focus-visible .test-image {
+  outline: 3px solid #7755b8;
+  outline-offset: 2px;
+}
+.test-more {
+  text-align: center;
+  margin: 1.4rem 0;
+}
+.test-compare {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.55rem;
+}
+.test-reference {
+  margin: 0;
+  min-width: 0;
+}
+.test-reference img {
+  width: 100%;
+  height: clamp(150px, 35vw, 370px);
+  object-fit: contain;
+  background: #eeece9;
+  display: block;
+  border-radius: 6px;
+}
+.test-reference.product img {
+  background: white;
+  border: 1px solid #ece8ee;
+}
+.test-reference figcaption {
+  font-size: 0.81rem;
+  font-weight: 600;
+  margin-top: 0.4rem;
+}
+.test-pager {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.35rem;
+  margin-top: 1.2rem;
+}
+.test-pager button {
+  font-size: 0.82rem;
+}
+.test-note {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #594e66;
+  margin: 0.8rem 0 0;
+}
+.test-grid button {
+  padding: 0;
+}
+@media (max-width: 650px) {
+  .test-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem 0.7rem;
+  }
+  .tests-overview {
+    padding: 1rem;
+  }
+  .test-reference img {
+    height: clamp(120px, 40vw, 205px);
+  }
+  .test-compare {
+    gap: 0.35rem;
+  }
+  .test-reference figcaption {
+    font-size: 0.73rem;
+  }
+  .test-pager .secondary {
+    padding: 0.4rem 0.6rem;
+  }
+  .test-pager small {
+    font-size: 0.7rem;
+  }
+  .test-card small {
+    font-size: 0.75rem;
+  }
+}
+
+.use-sample {
+  margin-top: 1rem;
+  width: 100%;
+}
+.local-kit-link {
+  display: inline-block;
+  margin-top: 0.4rem;
+  color: #70509b;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+.comparison-toggle {
+  display: inline-flex;
+  margin-bottom: 0.9rem;
+}
+.test-compare + .secondary.full {
+  margin-top: 1.2rem;
+}
+.issue-filter {
+  font-size: 0.83rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  margin-left: auto;
+  margin-right: 0.85rem;
+  color: #544c60;
+}
+.issue-filter input {
+  accent-color: #7056a6;
+  width: 1rem;
+  height: 1rem;
+}
+@media (max-width: 420px) {
+  .test-toolbar {
+    flex-wrap: wrap;
+    row-gap: 0.7rem;
+  }
+  .issue-filter {
+    margin-right: 0;
+  }
+  .test-toolbar > span {
+    flex-basis: 100%;
+  }
+}
+
+.result-picker {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin: 1rem 0 0;
+}
+.result-picker > span {
+  font-size: .86rem;
+  font-weight: 600;
+  color: #544c60;
+}
+.result-selector {
+  width: max-content;
+  max-width: 100%;
+}
+.result-selector + .test-compare {
+  margin-top: .75rem;
+}

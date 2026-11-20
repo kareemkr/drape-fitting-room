@@ -1,0 +1,94 @@
+.size-chart-editor {
+  display: grid;
+  gap: 1rem;
+}
+.size-chart-editor .dialog-copy {
+  margin: 0;
+}
+.chart-fields {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+.chart-fields .field-label {
+  margin: 0;
+}
+.chart-measurements summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.chart-measurements > div,
+.chart-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 1rem;
+}
+.chart-measurements > div {
+  margin-top: 0.65rem;
+}
+.chart-measurements label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.875rem;
+}
+.chart-table-wrap {
+  max-width: 100%;
+  overflow: auto;
+}
+.chart-table-wrap table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+.chart-table-wrap :is(td, th) {
+  padding: 0.4rem;
+  text-align: left;
+}
+.chart-table-wrap td {
+  border-top: 1px solid #e0dce5;
+}
+.chart-table-wrap th {
+  line-height: 1.2;
+}
+.chart-table-wrap input {
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 4.4rem;
+  max-width: 8rem;
+  padding: 0.5rem;
+  border: 1px solid #cbc6d2;
+  border-radius: 0.35rem;
+  background: white;
+  font: inherit;
+  color: inherit;
+}
+.chart-table-wrap button,
+.chart-remove {
+  color: #685187;
+  background: none;
+  font: inherit;
+  text-decoration: underline;
+}
+.chart-table-wrap button:disabled {
+  color: #8a8590;
+  text-decoration: none;
+}
+.size-chart-editor > .secondary {
+  justify-self: start;
+}
+.chart-actions {
+  align-items: center;
+}
+.chart-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+}
+@media (max-width: 540px) {
+  .chart-fields {
+    grid-template-columns: 1fr;
+  }
+}

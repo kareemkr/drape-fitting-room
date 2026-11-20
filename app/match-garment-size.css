@@ -1,0 +1,8 @@
+.match-garment { margin-top: .6rem; font-size: .875rem; color: #494154; }
+.match-garment summary { cursor: pointer; font-weight: 650; }
+.match-garment p { margin: .6rem 0; line-height: 1.45; }
+.match-garment-fields, .match-garment-result { display: flex; align-items: flex-end; flex-wrap: wrap; gap: .6rem; }
+.match-garment-fields label { display: grid; gap: .25rem; font-size: .85rem; }
+.match-garment-fields :is(input, select) { width: 8rem; border-radius: 7px; border: 1px solid #c9c4d2; padding: .4rem; background: white; color: #302839; font-size: 1rem; }
+.match-garment-result { margin-top: .6rem; align-items: center; }
+.match-garment-result button { padding: .35rem .75rem; border: 1px solid #8d79a7; border-radius: 7px; font-weight: 650; }
